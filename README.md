@@ -1,4 +1,4 @@
-ko## Hi 👋 , I'm Komal Akodiya
+ Hi 👋 , I'm Komal Akodiya
 
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding"width="400"src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
@@ -17,8 +17,7 @@ ko## Hi 👋 , I'm Komal Akodiya
 
 ## Let's Connect!
 
-[![LinkedIn](https://www.linkedin.com/in/komalakodiya30/)
-[![Email](https://mail.google.com/mail/u/1/#inbox)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komalakodiya30/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:komalakodiya30@gmail.com)
 Feel free to explore my repositories and reach out for collaboration opportunities or just to say hi! 😊
 
