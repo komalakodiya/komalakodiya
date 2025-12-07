@@ -3,6 +3,9 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="coding"width="400"src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"
 
+![Profile Views](https://komarev.com/ghpvc/?username=komalakodiya/&color=blueviolet)
+
+
 # 💫 About Me:
 ### ABOUT ME :
 
