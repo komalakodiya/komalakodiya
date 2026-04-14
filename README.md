@@ -9,7 +9,10 @@
 🔭Hey there, I'm Komal, a passionate data enthusiast with expertise in ETL, Data Analysis, and Visualization. Proficient in Advanced Excel and SQL and PowerBI from cleaning up messy spreadsheets in Excel to digging into databases with SQL, I've got the data side covered. Lately, I've been on a Python learning journey, adding some coding magic to my toolkit. I enjoy creating cool stuff, like dynamic sales dashboards that tell stories behind the numbers. I am seeking new challenges & opportunities to develop and implement my diverse skills to extract impactful results for the organizations.
 
 ## 🎯 Projects :
-- 💰 [Sales Analytics Dashboard](https://github.com/komalakodiya/Excel-AtliQ-Reports)
+- [Sales Analytics Dashboard](https://github.com/komalakodiya/Excel-AtliQ-Reports)
+- [Business Insights 360](https://github.com/komalakodiya/Business-Insights-360-PowerBI-Project)
+- [AtliQ Mart Retail Analysis](https://github.com/komalakodiya/AtliQ-Mart-Retail-Analysis)
+- [Hospitality Analysis](https://github.com/komalakodiya/Hospitality-Analysis)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komalakodiya30/)
@@ -21,6 +24,7 @@
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komalakodiya30/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=wordpress&logoColor=white)](https://codebasics.io/portfolio/Komal-Akodiya))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:komalakodiya30@gmail.com)
 
 
